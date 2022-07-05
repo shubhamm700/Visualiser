@@ -19,7 +19,7 @@ And Degree of Polynomial :- 2
 
 Time Complexity is O(n^2) .
 
-Time Complexity is n^2 because here i used Two itarations .
+Time Complexity is n^2 because here i used Two iterations .
 
 Quick Sort
 Quick Sort is divide and conquer algorithms. Basically It has a pivot index . Using the pivot index it apply recursion . As, It is use recursion so it's time complexity will reduce

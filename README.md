@@ -6,7 +6,8 @@ Dijkstra
 Prerequisite
 Basic coding knowledge
 
-Some concept about data structure and algorithm
+Some concept about data structure and algorithm.
+
 
 Mathematices
 

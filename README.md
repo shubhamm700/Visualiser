@@ -12,7 +12,7 @@ Some concept about data structure and algorithm.
 Mathematices
 
 Words about this project
-Bubble Sort
+# Bubble Sort
 Bubble Sort is simple sorting algorithm. It is slow sorting alogithm .It used loop for sorting. This algorithm used loop so Time Complexity is high.
 
 And Degree of Polynomial :- 2

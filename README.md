@@ -31,4 +31,4 @@ DFS is searching technique in a Graph . DFS means Depth first search. In this te
 
 
 Dijkstra
-Dijkstra is very popular algorithms. It found the sortest path between two nodes . It works in weight grarph. To find the sortest path we can use adjecency matrix or adjecency list . Here i use adjecency List .
+Dijkstra is very popular algorithms. It found the sortest path between two nodes . It works in weight grarph. To find the sortest path we can use adjecency matrix or adjecency list . Here i use adjecency List 
